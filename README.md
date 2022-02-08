@@ -2,6 +2,8 @@
 
 I'm a full stack developer and software engineer. 
 
+Follow my journey in tech [here](https://addisonhernandez.github.io).
+
 <hr>
 
 ### What I'm working on
