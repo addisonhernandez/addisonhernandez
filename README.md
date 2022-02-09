@@ -1,8 +1,10 @@
 ### Hi, I'm Addison
 
-I'm a full stack developer and software engineer. 
+I'm a full stack developer and software engineer.
 
-Follow my journey in tech [here](https://addisonhernandez.github.io).
+I'm interested in pretty much everything, so feel free to get in touch with me!
+
+Follow me on my journey in tech [here](https://addisonhernandez.github.io).
 
 <hr>
 
@@ -15,3 +17,10 @@ Follow my journey in tech [here](https://addisonhernandez.github.io).
 ### Project Showcase
 
  - 
+
+<hr>
+
+### On the Horizon
+
+ - Hack Reactor Software Engineering Immersive
+ - Advent of Code
