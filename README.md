@@ -1,4 +1,4 @@
-### Hi, I'm Addison
+# Hi, I'm Addison
 
 I'm a full stack developer and software engineer.
 
@@ -8,19 +8,19 @@ Follow me on my journey in tech [here](https://addisonhernandez.github.io).
 
 <hr>
 
-### What I'm working on
+## What I'm working on
 
  - I'm currently learning the MERN stack (MongoDB - Express - React - Node)
 
 <hr>
 
-### Project Showcase
+## Project Showcase
 
  - 
 
 <hr>
 
-### On the Horizon
+## On the Horizon
 
  - Hack Reactor Software Engineering Immersive
  - Advent of Code
