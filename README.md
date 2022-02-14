@@ -16,7 +16,7 @@ Follow me on my journey in tech [here](https://addisonhernandez.github.io).
 
 ## Project Showcase
 
- - 
+ - Stay tuned!
 
 <hr>
 
