@@ -10,6 +10,7 @@ Follow me on my journey in tech [here](https://addisonhernandez.github.io).
 
 ## What I'm working on
 
+ - Hack Reactor Software Engineering Immersive
  - I'm currently learning the MERN stack (MongoDB - Express - React - Node)
 
 <hr>
@@ -22,5 +23,4 @@ Follow me on my journey in tech [here](https://addisonhernandez.github.io).
 
 ## On the Horizon
 
- - Hack Reactor Software Engineering Immersive
- - Advent of Code
+  - Advent of Code
